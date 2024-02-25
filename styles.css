@@ -2,8 +2,38 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 14;
     background-color: rgb(248, 130, 4);
+    padding: 8px;
 }
 .title{
+    padding: 8px 16px;
+    border: 8px 16px;
+    margin: 16px 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    background-color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+.adobo{
+    padding: 8px 16px;
+    border: 8px 16px;
+    margin: 16px 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    background-color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+.adoboimg{
+    display: flexbox;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+
+}
+.nachos{
     padding: 8px 16px;
     border: 8px 16px;
     margin: 16px 16px;
